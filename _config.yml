@@ -2,12 +2,12 @@ title: CFPs
 description: Countdowns to conferences I am interested in
 author: Ulrich Aïvodji
 
-domain: ""
-baseurl: "/cfps"
+domain: "kekeli-lab.github.io"
+baseurl: ""
 
 twitter_username: umaivodj
 twitter_hashtag: 
-github_username: aivodji
+github_username: kekeli-lab
 github_repo: cfps
 
 markdown: kramdown
