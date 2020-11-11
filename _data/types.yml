@@ -1,0 +1,11 @@
+---
+- name: Machine Learning
+  sub: ML
+- name: Data Mining
+  sub: DM
+- name: Privacy
+  sub: PRIV
+- name: Security
+  sub: SEC
+- name: Fairness, Accountability, Transparency, and Ethics
+  sub: FATE

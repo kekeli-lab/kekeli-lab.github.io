@@ -1,0 +1,16 @@
+title: CFPs
+description: Countdowns to conferences I am interested in
+author: Ulrich Aïvodji
+
+domain: ""
+baseurl: "/cfps"
+
+twitter_username: umaivodj
+twitter_hashtag: 
+github_username: aivodji
+github_repo: cfps
+
+markdown: kramdown
+ga_id: 
+
+include: ['_pages']
