@@ -83,13 +83,13 @@
 
 - title: UAI
   hindex: 33
-  year: 2020
-  id: uai20
-  link: http://auai.org/uai2020/
-  deadline: '2020-02-20 23:59:59'
+  year: 2021
+  id: uai21
+  link: https://www.auai.org/uai2021/
+  deadline: '2021-02-19 23:59:59'
   timezone: UTC+1
-  date: August 3-6, 2020
-  place: Toronto, Canada
+  date: July 26-30, 2021
+  place: Online
   sub: ML
 
 
@@ -97,13 +97,13 @@
 
 - title: KDD
   hindex: 30
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: '2020-02-13 23:59:59'
+  year: 2021
+  id: kdd21
+  link: https://www.kdd.org/kdd2021/
+  deadline: '2020-02-08 23:59:59'
   timezone: UTC-11
-  date: August 22-27, 2020
-  place: San Diego, California, USA
+  date: August 14-18, 2021
+  place: Singapore
   sub: DM
 
 - title: ECML-PKDD
@@ -194,13 +194,13 @@
 
 - title: CCS
   hindex: -1
-  year: 2020
-  id: css20
-  link: https://www.sigsac.org/ccs/CCS2020/
-  deadline: '2020-05-04 23:59'
+  year: 2021
+  id: css21
+  link: https://www.sigsac.org/ccs/CCS2021/call-for-papers.html
+  deadline: '2021-01-20 23:59'
   timezone: UTC-12
-  date: Nov 09 - 13
-  place: Orlando, FL, USA
+  date: Nov 14 - 19
+  place: Seoul, South Korea
   sub: [SEC,PRIV]
 
 - title: AsiaCCS
@@ -238,10 +238,10 @@
 
 - title: ESORICS
   hindex: -1
-  year: 2020
-  id: esorics20
-  link: http://esorics2020.sccs.surrey.ac.uk
-  deadline: '2020-04-24 23:59'
+  year: 2021
+  id: esorics21
+  link: https://esorics2021.athene-center.de/
+  deadline: '2020-01-05 23:59'
   timezone: UTC-12
   date: Sept 23 - 27
   place: Surrey, UK
@@ -249,24 +249,24 @@
 
 - title: SOUPS
   hindex: -1
-  year: 2020
-  id: soups20
-  link: https://www.usenix.org/conference/soups2020
-  deadline: '2020-02-20 23:59'
+  year: 2021
+  id: soups21
+  link: https://www.usenix.org/conference/soups2021
+  deadline: '2021-02-18 23:59'
   timezone: UTC-12
   date: Aug 09 - 11
-  place: Boston, MA, USA
+  place: Vancouver, B.C., Canada
   sub: [SEC,PRIV]
 
 - title: PETS
   hindex: -1
-  year: 2020
+  year: 2021
   id: pets20
   link: https://petsymposium.org
-  deadline: '2019-11-30 23:59'
+  deadline: '2021-02-28 23:59'
   timezone: UTC-12
-  date: July 14 - 18
-  place: Montréal, Canada
+  date: July 12 - 16
+  place: Online
   sub: [PRIV]
 
 
